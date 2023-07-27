@@ -1,6 +1,15 @@
 body {
-    background-color: beige;
+  background-color: antiquewhite;
 }
+
 h1 {
-    color: blueviolet;
+  text-align: center;
+  color: rgb(6, 235, 159);
+  font-size: 48px;
 }
+
+img {
+  width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */
